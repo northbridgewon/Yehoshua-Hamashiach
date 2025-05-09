@@ -1,1 +1,2 @@
-#### This Project will be completed by the end of 2025, the design of the site itself, not updates and bug fixes, will be delivered before January 1st 2026
+#### This website will be ready for public use by the end of 2025.
+For now it is a coming soon website.
